@@ -11,5 +11,7 @@
 - Create templates folder with index.html page, add function to views, 
   create urls.py in jobapp and add pattern, in mysite urls.py add pattern 
   to link to jobapp urls.py
-- 
+- Update index.html with form from flaks project
+- Create forms.py to make class ApplicationForm, use that class in index 
+  function in views.py
 
