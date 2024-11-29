@@ -14,6 +14,7 @@
 - Update index.html with form from flaks project
 - Create forms.py to make class ApplicationForm, use that class in index 
   function in views.py to get data from form
-- Store form values in database with Form.data.create(columname=value) 
+- Store form values in database with Form.data.create(column_name=value) 
   method in views.py
+- Add message with package django.contrib.messages
 
